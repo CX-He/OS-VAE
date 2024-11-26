@@ -7,10 +7,9 @@ For more information, please refer to the paper:
 	author={Tian, Qu and He, Chengxun and Xu, Yang and Wu, Zebin and Wei, Zhihui},
 	journal={IEEE Trans. Geosci. Remote Sens.},
 	volume={62},
-	pages={1--14},
 	year={2024},
 	publisher={IEEE},
-	note = {Art no. -}
+	note = {Art no. 5516714}
 }
 ```
 
